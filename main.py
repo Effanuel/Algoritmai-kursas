@@ -11,4 +11,7 @@ def quicksort(x):
           greater = [i for i in x[1:] if i > pivot]
           return quicksort(less) + [pivot] + quicksort(greater)
         
-quicksort(array)
+
+
+if __name__ == "__main__":
+    quicksort(array)
