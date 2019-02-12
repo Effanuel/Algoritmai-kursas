@@ -1,5 +1,4 @@
 import numpy as np
-array = np.random.randint(1, 100, size=10000)
 
 
 def quicksort(x):
@@ -11,7 +10,11 @@ def quicksort(x):
           greater = [i for i in x[1:] if i > pivot]
           return quicksort(less) + [pivot] + quicksort(greater)
         
+def main():
+    array = np.random.randint(1, 1000, size=100)
+    
+    print(quicksort(array))
 
 
 if __name__ == "__main__":
-    quicksort(array)
+    main()
