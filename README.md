@@ -8,7 +8,13 @@ or
 ```
 python primes_palindromic.py
 ```
-or
+
+
+
+
+
+
+# OPTIONAL:
 ```
 python selectionSort.py
 ```
