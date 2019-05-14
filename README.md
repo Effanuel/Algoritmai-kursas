@@ -2,13 +2,13 @@
 
 Run code in command-line shell:
 ```
-python -i quickSort.py
+python quickSort.py
 ```
 or
 ```
-python -i primes_palindromic.py
+python primes_palindromic.py
 ```
 or
 ```
-python -i selectionSort.py
+python selectionSort.py
 ```
