@@ -8,6 +8,11 @@ or
 ```
 python primes_palindromic.py
 ```
+or
+```
+python prims.py
+```
+
 
 
 
