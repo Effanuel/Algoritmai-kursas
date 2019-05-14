@@ -18,3 +18,8 @@ python primes_palindromic.py
 ```
 python selectionSort.py
 ```
+or
+```
+python bubbleSort.py
+```
+
