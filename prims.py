@@ -33,12 +33,21 @@ class Graph():
             u = self.minKey(indexes, included)
 
             for j in range(self.V):
-                if self.graph[u][j] > 0 andn self.graph[u][j] < indexes[j] and included[j] == False:
+                if self.graph[u][j] > 0 and self.graph[u][j] < indexes[j] and included[j] == False:
                     indexes[j] = self.graph[u][j]
                     store[j] = u
         self.printGraph(store)
 
 def main():
+        '''
+            12     3
+        (1)---(2)---(3)
+        |    /       |
+       6| 4/         |5
+        | /          |
+        (4)---------(5)
+                11        '''
+    print(main.__doc__)
     graph = [ [0, 12, 0, 6, 0],
                 [12, 0, 3, 4, 0],
                 [0, 3, 0, 0, 5],
