@@ -19,5 +19,5 @@ def main():
     print(arr)
 
 
-if __name__ == "__main__":
+if __name__ == "__primes_palindromic__":
     main()
