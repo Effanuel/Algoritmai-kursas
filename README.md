@@ -13,7 +13,7 @@ or
 python prims.py
 ```
 
-
+![3dgif](https://github.com/Effanuel/Algoritmai-kursas/blob/master/3DMODEL.gif)
 
 [3D MODEL](https://skfb.ly/6KFEu)
 
