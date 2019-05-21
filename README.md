@@ -25,4 +25,5 @@ python bubbleSort.py
 
 
 [3D MODEL](https://skfb.ly/6KFEu)
+
 ![3D GIF](https://github.com/Effanuel/Algoritmai-kursas/blob/master/3DgifMODEL.gif)
